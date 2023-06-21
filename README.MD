@@ -1,8 +1,10 @@
-# Hi there! 👋 I'm Vaibhav Shukla
+# Namaste! 🙏 Hello! I'm Vaibhav Shukla
+## Frontend Web Developer 
+### From: Bengaluru, India
 
-- 📧 Email: vaibhavshukla2704@gmail.com
-- 💼 LinkedIn: [Vaibhav Shukla](https://www.linkedin.com/in/vaibhav-shukla-here)
-- 🐙 GitHub: [vaibhavshukla-int](https://github.com/vaibhavshukla-int)
+
+
+
 
 ## About Me
 
