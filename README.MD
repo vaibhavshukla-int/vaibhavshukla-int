@@ -23,8 +23,8 @@
 
 ## Social Media
 
-- 📷 Instagram: [Connet with me in Instagram](https://instagram.com/vaibhav_shukla_here?igshid=MzNlNGNkZWQ4Mg==)
-- 💼 LinkedIn: [Connet with me in Instagram](https://www.linkedin.com/in/vaibhav-shukla-here)
-- 🐦 Twitter: [Connet with me in Twitter](https://twitter.com/imShuklaVaibhav)
-- 📧 Email: [Connet with me in Email](mailto:vaibhavshukla2704@gmail.com)
+- 📷 Instagram: [Connet me in Instagram](https://instagram.com/vaibhav_shukla_here?igshid=MzNlNGNkZWQ4Mg==)
+- 💼 LinkedIn: [Connet me in LinkedIn](https://www.linkedin.com/in/vaibhav-shukla-here)
+- 🐦 Twitter: [Connet me in Twitter](https://twitter.com/imShuklaVaibhav)
+- 📧 Email: [Connet me in Email](mailto:vaibhavshukla2704@gmail.com)
 
