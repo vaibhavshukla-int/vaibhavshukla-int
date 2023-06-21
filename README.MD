@@ -19,6 +19,17 @@
 - Git 🐙
 - Responsive Web Design 🌐
 
+## Skills
+
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)]()
+[![Redux](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![Responsive Web Design](https://img.shields.io/badge/Responsive%20Web%20Design-%23404040?style=for-the-badge&logo=html5&logoColor=white)]()
+
+
 
 ## Achievements
 
