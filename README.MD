@@ -34,15 +34,7 @@
 
 ## GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavshukla-int&show_icons=true&theme=radical&hide_border=true&icon_color=FFD700&count_private=true)
-
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavshukla-int&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats&langs_count=6)
-
-![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavshukla-int&theme=highcontrast)
-
-
-
-
 
 ## Social Media
 
