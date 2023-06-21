@@ -20,3 +20,11 @@
 - 🎬 During my free time, I indulge in watching captivating web series, immersing myself in compelling storytelling.
 - 📚 Books and articles are my companions, and I find joy in expanding my knowledge across various subjects.
 - 🌳 Connecting with nature brings me inner peace and tranquility, making me appreciate the beauty that surrounds us.
+
+## Social Media
+
+- 📷 Instagram: [Connet with me in Instagram](https://instagram.com/vaibhav_shukla_here?igshid=MzNlNGNkZWQ4Mg==)
+- 💼 LinkedIn: [Connet with me in Instagram](https://www.linkedin.com/in/vaibhav-shukla-here)
+- 🐦 Twitter: [Connet with me in Twitter](https://twitter.com/imShuklaVaibhav)
+- 📧 Email: [Connet with me in Email](mailto:vaibhavshukla2704@gmail.com)
+
