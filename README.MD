@@ -32,6 +32,11 @@
 - 📚 Books and articles are my companions, and I find joy in expanding my knowledge across various subjects.
 - 🌳 Connecting with nature brings me inner peace and tranquility, making me appreciate the beauty that surrounds us.
 
+## GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavshukla-int&show_icons=true)
+
+
 ## Social Media
 
 - 📷 Instagram: [Connet me in Instagram](https://instagram.com/vaibhav_shukla_here?igshid=MzNlNGNkZWQ4Mg==)
