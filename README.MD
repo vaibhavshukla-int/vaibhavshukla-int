@@ -34,7 +34,8 @@
 
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavshukla-int&show_icons=true)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavshukla-int&show_icons=true&theme=radical&hide_border=true&icon_color=FFD700&count_private=true)
+
 
 
 ## Social Media
