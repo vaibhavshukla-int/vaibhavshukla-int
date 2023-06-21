@@ -38,6 +38,14 @@
 
 ## Social Media
 
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavshukla2704@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-shukla-here)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imShuklaVaibhav)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vaibhav_shukla_here?igshid=MzNlNGNkZWQ4Mg==)
+
+
 - 📷 Instagram: [Connet me in Instagram](https://instagram.com/vaibhav_shukla_here?igshid=MzNlNGNkZWQ4Mg==)
 - 💼 LinkedIn: [Connet me in LinkedIn](https://www.linkedin.com/in/vaibhav-shukla-here)
 - 🐦 Twitter: [Connet me in Twitter](https://twitter.com/imShuklaVaibhav)
