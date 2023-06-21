@@ -1,10 +1,4 @@
-# Namaste! 🙏 Hello! I'm Vaibhav Shukla
-## Frontend Web Developer 
-### From: Bengaluru, India
-
-
-
-
+# Hi there! 👋 I'm Vaibhav Shukla
 
 ## About Me
 
