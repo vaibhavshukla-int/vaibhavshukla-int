@@ -9,6 +9,11 @@
 - 🌟 Committed to delivering high-quality code and crafting intuitive user experiences.
 - 🌱 Excited to contribute to innovative projects and collaborate with talented individuals in the tech community.
 
+## Achievements
+
+- Completed internship at Create, gaining valuable experience in web development.
+- Earned a Responsive Web Design certificate from freeCodeCamp. [View Certificate](https://www.freecodecamp.org/certification/fcc5b91d061-f422-4268-bdc4-6b863ad6311e/responsive-web-design
+
 ## Interests/Hobbies
 
 - 🌱 Always fueled by curiosity, I love exploring and staying updated with the latest technologies.
