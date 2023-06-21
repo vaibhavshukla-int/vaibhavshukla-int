@@ -10,7 +10,7 @@
 - 🌱 Excited to contribute to innovative projects and collaborate with talented individuals in the tech community.
 
 ## Skills
-
+![fa-crown](fa-crown.svg)
 - HTML5 ⚡️
 - CSS3 🎨
 - JavaScript 💡
