@@ -9,16 +9,5 @@
 - 🌟 Committed to delivering high-quality code and crafting intuitive user experiences.
 - 🌱 Excited to contribute to innovative projects and collaborate with talented individuals in the tech community.
 
-## Skills
 
-- **Technical Skills (Proficient):**
-  - HTML5, CSS3, JavaScript, React.js, Redux, Git, Responsive Web Design
-
-- **Additional Relevant Skills:**
-  - Web Accessibility, Performance Optimization, Node.js, Git
-
-
-## Certificates
-
-- Responsive Web Design, from freeCodeCamp (2023)
 
