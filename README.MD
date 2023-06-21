@@ -2,11 +2,11 @@
 
 ## About Me
 
-- 👨‍💻 Professional software developer with a passion for creating impactful web applications.
-- 🎓 Master's degree in Computer Application, always seeking opportunities to expand my knowledge.
-- 🌐 Frontend web development is my area of focus, and I am continuously exploring and learning new technologies.
-- 💪 I believe in challenging myself to achieve greatness and embrace the idea of taking the hardest path to enhance my skills.
-- 🌟 Committed to delivering high-quality code and creating intuitive user experiences.
+- 👨‍💻 Professional software developer passionate about creating impactful web applications.
+- 🎓 Master's degree in Computer Application, constantly seeking opportunities for knowledge expansion.
+- 🌐 Focused on frontend web development, continuously exploring and mastering new technologies.
+- 💪 Embracing challenges to grow and improve, believing in taking the hardest path to achieve excellence.
+- 🌟 Committed to delivering high-quality code and crafting intuitive user experiences.
 - 🌱 Excited to contribute to innovative projects and collaborate with talented individuals in the tech community.
 
 ## Skills
