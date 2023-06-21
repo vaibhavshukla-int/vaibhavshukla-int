@@ -11,7 +11,7 @@
 
 ## Achievements
 
-- Completed internship at Create, gaining valuable experience in web development.
+- Completed internship as a React Developer, gaining valuable experience in web development.
 - Earned a Responsive Web Design certificate from freeCodeCamp. [View Certificate](https://www.freecodecamp.org/certification/fcc5b91d061-f422-4268-bdc4-6b863ad6311e/responsive-web-design)
 
 ## Interests/Hobbies
