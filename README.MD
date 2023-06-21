@@ -9,6 +9,17 @@
 - 🌟 Committed to delivering high-quality code and crafting intuitive user experiences.
 - 🌱 Excited to contribute to innovative projects and collaborate with talented individuals in the tech community.
 
+## Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Redux
+- Git
+- Responsive Web Design
+
+
 ## Achievements
 
 - Completed internship as a React Developer, gaining valuable experience in web development.
