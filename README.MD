@@ -11,13 +11,13 @@
 
 ## Skills
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Redux
-- Git
-- Responsive Web Design
+- HTML5 ⚡️
+- CSS3 🎨
+- JavaScript 💡
+- React.js ⚛️
+- Redux 🔄
+- Git 🐙
+- Responsive Web Design 🌐
 
 
 ## Achievements
