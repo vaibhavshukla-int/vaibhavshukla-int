@@ -18,6 +18,8 @@
 - Redux 🔄
 - Git 🐙
 - Responsive Web Design 🌐
+![HTML5](https://icons8.com/icon/20909/html-5)
+
 
 ## Achievements
 
