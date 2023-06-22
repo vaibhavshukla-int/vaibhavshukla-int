@@ -18,7 +18,7 @@
 - Redux 🔄
 - Git 🐙
 - Responsive Web Design 🌐
-![HTML5](icons/HTML.svg)
+![HTML5](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)
 
 
 ## Achievements
