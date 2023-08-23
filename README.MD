@@ -18,8 +18,10 @@
 - Redux 🔄
 - Git 🐙
 - Responsive Web Design 🌐
-
-
+- TypeScript
+- Node.js
+- Express.js
+- MERN Stack
 
 ## Achievements
 
