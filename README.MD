@@ -21,6 +21,7 @@
 - TypeScript
 - Node.js
 - Express.js
+- MongoDB (NoSql)
 - MERN Stack
 
 ## Achievements
